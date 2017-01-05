@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en-US">
 	<head>
@@ -374,7 +373,7 @@
 					</a>
 				</div><!-- #social -->
 				<p class="copyright">
-					&copy; 2016 blooom, inc.
+					&copy; <?php echo date("Y"); ?> blooom, inc.
 				</p>
 			</div><!-- .content-wrapper -->
 		</div><!-- .footer -->
